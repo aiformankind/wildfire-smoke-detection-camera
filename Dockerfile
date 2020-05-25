@@ -13,10 +13,11 @@
 # limitations under the License.
 # #==========================================================================
 
-FROM tensorflow/tensorflow
+FROM tensorflow/tensorflow:1.13.1
 
 # Define environment variable
 ENV WORKPATH /tensorflow
+ENV DEBIAN_FRONTEND=noninteractive 
 
 WORKDIR $WORKPATH
 
@@ -27,10 +28,15 @@ EXPOSE 8888 6006
 RUN apt-get update
 RUN apt-get upgrade -y
 RUN apt-get install -y git 
+RUN apt-get install -y unzip
+RUN apt-get install -y curl
 
 # Get the tensorflow models research directory, and move it into tensorflow
 # source folder to match recommendation of installation
-RUN git clone --depth 1 https://github.com/tensorflow/models.git
+#RUN git clone --depth 1 https://github.com/tensorflow/models.git
+
+# checkout the right branch
+RUN git clone -b r1.13.0 --depth 1 https://github.com/tensorflow/models.git
 
 RUN mv object_detection_wildfire.ipynb /tensorflow/models/research/object_detection/ && \
     mv create_tf_record.py /tensorflow/models/research/object_detection/
