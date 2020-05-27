@@ -86,3 +86,16 @@ You can find the custom images for this tutorial in the /tensorflow/input/images
         </object>
     </annotation>
 ```        
+
+### Experimental Results
+
+
+#### True Positives
+
+<img src="docs/truePositive1.png" alt="detected smoke" width="400"/><img src="docs/truePositive2.png" alt="detected smoke" width="400"/>
+
+<img src="docs/truePositive5.png" alt="detected smoke" width="400"/>
+
+#### False Positives
+
+<img src="docs/falsePositive1.png" alt="not smoke" width="400"/>
