@@ -30,6 +30,7 @@ RUN apt-get upgrade -y
 RUN apt-get install -y git 
 RUN apt-get install -y unzip
 RUN apt-get install -y curl
+RUN DEBIAN_FRONTEND="noninteractive" apt-get -y install tzdata
 
 # Get the tensorflow models research directory, and move it into tensorflow
 # source folder to match recommendation of installation
