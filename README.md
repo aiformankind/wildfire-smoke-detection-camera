@@ -89,7 +89,7 @@ You can find the custom images for this tutorial in the /tensorflow/input/images
 
 ### Experimental Results
 
-AI For Mankind had annotated these 744 wildfire smoke HPWREN images in 2019 and built a wildfire smoke detector using the annotated images. It has shown promising results running against wildfire images captured by HPWREN in 2020. See below.
+AI For Mankind had annotated these 744 wildfire smoke HPWREN images in 2019 and built a wildfire smoke detector aka "The Super Duper" using the annotated images. It has shown promising results running against wildfire images captured by HPWREN in 2020. See below.
 
 1. 2020-02-05 fire captured by HPWREN camera hp-w-mobo-c, our detector detected the smoke *13 minutes* after fire ignition.
 
@@ -114,7 +114,7 @@ AI For Mankind had annotated these 744 wildfire smoke HPWREN images in 2019 and 
 ### Other Results
 
 #### True Positives
-We ran AI For Mankind's wildfire smoke detector against past HPWREN images of several fires, here are the promising results obtained.
+We ran AI For Mankind's wildfire smoke detector aka "The Super Duper" against past HPWREN images of several fires, here are the promising results obtained.
 
 - 20191006: Detected smoke ~6 mins after fire ignition (HPWREN ml w mobo c) https://youtu.be/wt1sQyRjoCI
 - 20191006: Detected smoke ~3 mins after fire ignition (HPWREN pi s mobo c) https://youtu.be/e9T_8coM20M
