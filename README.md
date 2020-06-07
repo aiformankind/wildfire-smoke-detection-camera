@@ -114,6 +114,15 @@ AI For Mankind had annotated these 744 wildfire smoke HPWREN images in 2019 and 
 ### Other Results
 
 #### True Positives
+We ran AI For Mankind's wildfire smoke detector against past HPWREN images of several fires, here are the promising results obtained.
+
+- 20191006: Detected smoke ~6 mins after fire ignition (HPWREN ml w mobo c) https://youtu.be/wt1sQyRjoCI
+- 20191006: Detected smoke ~3 mins after fire ignition (HPWREN pi s mobo c) https://youtu.be/e9T_8coM20M
+- 20191007: Detected smoke ~10 mins after fire ignition (HPWREN sm s mobo c) https://youtu.be/LqAxrY-Xa4w
+- 20200206: Detected smoke ~4 mins after fire ignition (HPWREN ml s mobo c) https://youtu.be/Y3tal1-nk1Y
+- 20200306: Detected smoke ~3 mins after fire ignition (HPWREN mlo n mobo c) https://youtu.be/X_QvjA1-Nb4
+- 20200205: Detected smoke ~13 mins after fire ignition (HPWREN hp w mobo c) https://youtu.be/CcbXdcMEQvs
+
 
 <img src="docs/truePositive1.png" alt="detected smoke" width="400"/><img src="docs/truePositive2.png" alt="detected smoke" width="400"/>
 
