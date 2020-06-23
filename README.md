@@ -133,3 +133,36 @@ We ran AI For Mankind's wildfire smoke detector aka "The Super Duper" against pa
 #### False Positives
 
 <img src="docs/falsePositive1.png" alt="not smoke" width="400"/>
+
+### Model Performance
+AI For Mankind had developed 3 models: SuperDuper-v1, SuperDuper-v2, and SuperDuper-edge. One of them, SuperDuper-edge is optimized for edge device. The table shows the performance of our models.
+
+
+| Name            | AveragePrecison@0.5IOU/smoke |
+|-----------------|-----------------|
+| SuperDuper-v1   | 0.7506           |
+| SuperDuper-v2   | 0.8669           |
+| SuperDuper-edge | 0.6822           |
+
+
+### False Positive Rate
+We tested our model against different time periods eg. during sunrise, sunset, or foggy condition and shared our false positive rates below. We will continue to curate, test, and share the results and datasets.
+
+| False Positive Study |               |              |                        |                     |                                                                           |
+|----------------------|---------------|--------------|------------------------|---------------------|---------------------------------------------------------------------------|
+|                      | Model         | Total Images | Num of False Positives | False Positive Rate | Link to Dataset                                                           |
+| Sunrise              | SuperDuper-v1 | 181          | 2                      | 0.011       | https://www.dropbox.com/sh/71jdkv7tdtmmif8/AACdd51AH4BNX84bJSrGWrssa?dl=0 |
+| Fog                  | SuperDuper-v1 | 181          | 72                     | 0.398        | https://www.dropbox.com/sh/iw40v0yrkkimhha/AAANC4cxJR90cp8cfXF5kYHaa?dl=0 |
+
+### Join Our Slack Channel
+- [AI For Mankind Slack Channel](https://tinyurl.com/vch2z68)
+
+### Join Our Meetup Group
+- [Join AI For Mankind Meetup Group](https://www.meetup.com/AI-for-Mankind/) to receive event announcement.
+
+### AI For Mankind's Youtube Channel
+- [Presentations](https://www.youtube.com/channel/UCyosmgDqG3jfZ4_aYsN94Lw)
+
+
+### Donate to Support Us
+[Donate](https://donorbox.org/support-the-evaluation-and-deployment-of-wildfire-smoke-detector) to support our efforts. Your donation is tax deductible. 
