@@ -12,14 +12,14 @@ Install Docker:
 
 https://docs.docker.com/v17.12/docker-for-mac/install/#install-and-run-docker-for-mac
 
-Clone the repository (https://github.com/aiformankind/wildfire-smoke-detection):
+Clone the repository (https://github.com/aiformankind/wildfire-smoke-detection-camera):
 ```
-git clone https://github.com/aiformankind/wildfire-smoke-detection.git
+git clone https://github.com/aiformankind/wildfire-smoke-detection-camera.git
 ```
 
 Go to the repository directory that you just clone:
 ```
-cd wildfire-smoke-detection
+cd wildfire-smoke-detection-camera
 ```
 
 Build the Tensorflow docker (this job will pull the latest tensorflow images and set up the environment) :
