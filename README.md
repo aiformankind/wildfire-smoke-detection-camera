@@ -1,6 +1,8 @@
 # wildfire-smoke-detection-hpwren
 
-In this tutorial, we will show you how to build an object detector for a wildfire smoke dataset using wildfire smoke images captured by HPWREN cameras http://hpwren.ucsd.edu/cameras/ . You can find the custom dataset in the input/images folder. The goal is to detect wildfire smokes in the images.
+In this tutorial provided by [AI For Mankind](https://aiformankind.org/), we show you how to build an object detector for a wildfire smoke dataset using wildfire smoke images captured by HPWREN cameras http://hpwren.ucsd.edu/cameras/ . You can find the custom dataset in the input/images folder. The goal is to detect wildfire smokes in the images.
+
+[Join AI For Mankind's Lets Stop Wildfires Hackathon 2.0](https://aiformankind.org/lets-stop-wildfires-hackathon-2.0/)
 
 <p float="left">
 <img src=docs/wildfire-detect.png />
@@ -125,6 +127,7 @@ We ran AI For Mankind's wildfire smoke detector aka "The Super Duper" against pa
 - 20200306: Detected smoke ~3 mins after fire ignition (HPWREN mlo n mobo c) https://youtu.be/X_QvjA1-Nb4
 - 20200205: Detected smoke ~13 mins after fire ignition (HPWREN hp w mobo c) https://youtu.be/CcbXdcMEQvs
 
+**See the complete playlist:** [https://www.youtube.com/playlist?list=PLB-XesK9mcaCCvSbogU9SFBlp1LEAjgT2](https://www.youtube.com/playlist?list=PLB-XesK9mcaCCvSbogU9SFBlp1LEAjgT2)
 
 <img src="docs/truePositive1.png" alt="detected smoke" width="400"/><img src="docs/truePositive2.png" alt="detected smoke" width="400"/>
 
