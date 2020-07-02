@@ -4,6 +4,8 @@ In this tutorial provided by [AI For Mankind](https://aiformankind.org/), we sho
 
 [Join AI For Mankind's Lets Stop Wildfires Hackathon 2.0](https://aiformankind.org/lets-stop-wildfires-hackathon-2.0/)
 
+Learn more about our [wildfire smoke detection research.](https://github.com/aiformankind/wildfire-smoke-detection-research) [Contact us](mailto:ai.for.mankind@gmail.com) if you would like to collaborate with us.
+
 <p float="left">
 <img src=docs/wildfire-detect.png />
 </p>
