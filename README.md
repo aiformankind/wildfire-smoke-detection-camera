@@ -128,6 +128,7 @@ We ran AI For Mankind's wildfire smoke detector aka "The Super Duper" against pa
 - 20200206: Detected smoke ~4 mins after fire ignition (HPWREN ml s mobo c) https://youtu.be/Y3tal1-nk1Y
 - 20200306: Detected smoke ~3 mins after fire ignition (HPWREN mlo n mobo c) https://youtu.be/X_QvjA1-Nb4
 - 20200205: Detected smoke ~13 mins after fire ignition (HPWREN hp w mobo c) https://youtu.be/CcbXdcMEQvs
+- 20200615: Detected smoke ~4 mins after fire ignition (HPWREN rm e mobo c) https://youtu.be/uPSkxGjUqRk
 
 **See the complete playlist:** [https://www.youtube.com/playlist?list=PLB-XesK9mcaCCvSbogU9SFBlp1LEAjgT2](https://www.youtube.com/playlist?list=PLB-XesK9mcaCCvSbogU9SFBlp1LEAjgT2)
 
