@@ -174,3 +174,6 @@ On average, false positive rate ~0.0860
 
 ### Donate to Support Us
 [Donate](https://donorbox.org/support-the-evaluation-and-deployment-of-wildfire-smoke-detector) to support our efforts. Your donation is tax deductible. 
+
+### Contributors
+[Wei Shung Chung](https://www.linkedin.com/in/wei-shung-chung-01326a7/)
