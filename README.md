@@ -91,9 +91,16 @@ You can find the custom images for this tutorial in the /tensorflow/input/images
     </annotation>
 ```        
 
-### Experimental Results
+### Smoke Classification
+If you are interested in approaching this problem from image classification aspect, you can also checkout the following smoke classifier Colab notebooks provided by AI For Mankind for the last [Lets Stop Wildfires Hackathon 1.0](https://aiformankind.org/lets-stop-wildfires-hackathon/). These are built only for classification and not for object detection.
 
-AI For Mankind had annotated these 744 wildfire smoke HPWREN images in 2019 and built a wildfire smoke detector aka "The Super Duper" using the annotated images. It has shown promising results running against wildfire images captured by HPWREN in 2020. See below.
+1. [Smoke Classifier using Entire Image](https://github.com/aiformankind/lets-stop-wildfires-hackathon/blob/master/Challenge_1A_WildfireSmokeImageClassifierForDemo.ipynb)
+
+2. [Smoke Classifier using Gridded Image](https://github.com/aiformankind/lets-stop-wildfires-hackathon/blob/master/Challenge_1B_WildfireSmokeImageClassifierForDemo.ipynb)
+
+### Smoke Detection Experimental Results
+
+AI For Mankind had annotated these 744 wildfire smoke HPWREN images in 2019 and built a few wildfire smoke detectors aka "The Super Duper" using the annotated images. It has shown promising results running against wildfire images captured by HPWREN in 2020. See below.
 
 1. 2020-02-05 fire captured by HPWREN camera hp-w-mobo-c, our detector detected the smoke *13 minutes* after fire ignition.
 
@@ -177,3 +184,4 @@ On average, false positive rate ~0.0860
 
 ### Contributors
 [Wei Shung Chung](https://www.linkedin.com/in/wei-shung-chung-01326a7/)
+
