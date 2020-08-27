@@ -1,10 +1,12 @@
 # wildfire-smoke-detection-hpwren
 
-In this tutorial provided by [AI For Mankind](https://aiformankind.org/), we show you how to build an object detector for a wildfire smoke dataset using wildfire smoke images captured by HPWREN cameras http://hpwren.ucsd.edu/cameras/ . You can find the custom dataset in the input/images folder. The goal is to detect wildfire smokes in the images.
+In this tutorial provided by [AI For Mankind](https://aiformankind.org/), we show you how to build an object detector for a wildfire smoke dataset using wildfire smoke images captured by HPWREN cameras http://hpwren.ucsd.edu/cameras/. You can find the custom bounding box annotated wildfire smoke images in the input/images folder. The goal is to detect wildfire smokes in the images.
 
 [Join AI For Mankind's Lets Stop Wildfires Hackathon 2.0](https://aiformankind.org/lets-stop-wildfires-hackathon-2.0/)
 
 Learn more about our [wildfire smoke detection research.](https://github.com/aiformankind/wildfire-smoke-detection-research) [Contact us](mailto:ai.for.mankind@gmail.com) if you would like to collaborate with us.
+
+Please kindly give credits to [AI For Mankind](https://aiformankind.org) and HPWREN when using this bounding box annotated wildfire smoke training dataset and this quick start wildfire smoke detection repo.
 
 <p float="left">
 <img src=docs/wildfire-detect.png />
